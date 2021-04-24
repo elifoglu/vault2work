@@ -1,4 +1,4 @@
-# vault2Work
+# vault2work
 
 Obsidian vault template to use daily at work
 
