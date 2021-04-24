@@ -1,5 +1,5 @@
 # vault2Work
 
-This is an Obsidian vault template to use daily at work.
+Obsidian vault template to use daily at work
 
-![[2.png]]
+![](https://github.com/elifoglu/vault2work/blob/main/_media/2.png?raw=true)
